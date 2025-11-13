@@ -37,6 +37,15 @@ StarCitizen/
 - If you already have a `user.cfg` file, add the line `g_language = english`
     - Otherwise just make one or rename `user.example.cfg` → `user.cfg` & put it in your SC directory as above
 
+## Troubleshoot
+Allowing PowerShell Script Execution
+
+To enable the execution of PowerShell scripts on Windows 10/11, you can change the Execution Policy.
+Method sets the policy to Unrestricted, which allows all scripts to run without restrictions.
+
+✅ Command
+Set-ExecutionPolicy Unrestricted
+
 ## 🤔 Is this... legit?
 > [!IMPORTANT]
 > **Made by the Community** - This is an unofficial Star Citizen fan project, not affiliated with the Cloud Imperium group of companies. All content in this repository not authored by its host or users are property of their respective owners.
