@@ -44,6 +44,7 @@ To enable the execution of PowerShell scripts on Windows 10/11, you can change t
 Method sets the policy to Unrestricted, which allows all scripts to run without restrictions.
 
 ✅ Command
+
 Set-ExecutionPolicy Unrestricted
 
 ## 🤔 Is this... legit?
