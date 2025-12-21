@@ -2,7 +2,7 @@
 > [!NOTE]
 > Originally based on [ExoAE's ScCompLangPack](https://github.com/ExoAE/ScCompLangPack) idea but rather than another fork, I decided instead to tweak the merge tool to make it more usable. target_strings.ini is provided for example of organising your ASOP
 
-### 🗒️ Current String Base: `sc-alpha-4.3.2.10452200`
+### 🗒️ Current String Base: `4.5`
 
 ## 📝 What it Does
 - Takes `target_strings.ini` as the input file & `global.ini` as source file from Data.p4k
